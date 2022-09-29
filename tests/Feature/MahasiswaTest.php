@@ -9,7 +9,6 @@ use Tests\TestCase;
 
 class MahasiswaTest extends TestCase
 {
-    use RefreshDatabase;
     /**
      * A basic test example.
      *
